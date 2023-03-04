@@ -1,0 +1,11 @@
+.btnContainer {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+}
+
+.feedbackBtn {
+  padding: 10px 25px;
+  border-radius: 15px;
+  font-size: 17px;
+}

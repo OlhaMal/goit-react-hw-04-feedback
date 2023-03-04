@@ -1,0 +1,15 @@
+.statisticsList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.statisticsListItem {
+  font-size: x-large;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.statisticsListItem span {
+  font-weight: bold;
+}
